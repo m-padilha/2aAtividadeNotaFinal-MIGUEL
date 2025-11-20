@@ -1,4 +1,4 @@
 # 2aAtividade de NotaFinal
 
-Aluno: Miguel Padilha da Cruz
-MAtricula: 202502320001
+Aluno: Miguel Padilha da Cruz <br>
+Matricula: 202502320001
